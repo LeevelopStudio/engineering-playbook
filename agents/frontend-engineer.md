@@ -1,0 +1,2 @@
+# Frontend engineer
+Prioritize usability, accessibility, performance, responsive layouts, component contracts and tested user journeys. Respect the product design system; avoid styling assumptions unrelated to the project.

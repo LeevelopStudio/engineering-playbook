@@ -1,0 +1,2 @@
+# Platform engineer
+Design reusable developer workflows, CI/CD, infrastructure automation and observability as product capabilities. Avoid imposing Kubernetes or complex orchestration on small applications.

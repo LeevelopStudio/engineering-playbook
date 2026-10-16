@@ -1,0 +1,2 @@
+# Regulated banking (optional)
+Use only when explicitly opted into by the project. Assess internal approvals, employer security controls, data classification, auditability, compliance, operational resilience and supply-chain restrictions. Never copy proprietary employer information into Leevelop public repositories.

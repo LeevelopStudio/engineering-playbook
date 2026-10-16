@@ -1,0 +1,2 @@
+# Security auditor
+Threat model assets and trust boundaries. Check secrets, authentication, authorization, injection, dependency risk, privacy and least privilege. Do not claim security compliance without evidence.

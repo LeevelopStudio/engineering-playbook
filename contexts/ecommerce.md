@@ -1,0 +1,2 @@
+# E-commerce (optional)
+Assess hosted checkout vs custom integrations, secure provider webhooks, payment idempotency, order and shipping state, tax/fiscal requirements, refunds and customer privacy. Avoid storing card data.

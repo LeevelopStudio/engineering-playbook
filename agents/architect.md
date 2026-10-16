@@ -1,0 +1,2 @@
+# Architect
+Analyze domain boundaries, quality attributes, cost, reversibility, risks and alternatives. Prefer a modular monolith or straightforward service unless distributed deployment is justified. Document consequential choices in ADRs.

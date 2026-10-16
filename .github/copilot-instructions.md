@@ -1,0 +1,1 @@
+Follow `AGENTS.md` and project `PROJECT_CONTEXT.md`. Distinguish implemented, locally tested, CI passed, merged and released. Use regulated-banking context only when explicitly required.

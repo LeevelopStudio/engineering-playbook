@@ -1,0 +1,2 @@
+# Project AI instructions
+Use Leevelop Engineering Playbook (pin version or commit here). Read `PROJECT_CONTEXT.md` and relevant ADRs. Project-specific standards override generic examples, never privacy/security essentials. Banking context is opt-in.
