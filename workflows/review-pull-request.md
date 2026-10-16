@@ -1,0 +1,2 @@
+# Review pull request
+Inspect correctness, requirements, backwards compatibility, data handling, auth, dependencies, tests, observability and docs. Cite concrete files and severity. CI must be independently checked.

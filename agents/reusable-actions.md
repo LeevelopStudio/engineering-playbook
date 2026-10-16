@@ -1,0 +1,2 @@
+# Reusable CI/CD actions
+Keep build and deploy contracts versioned, pinned and testable. Standardize repeatable workflows without multiplying templates unnecessarily. Separate artifact build from promotion when useful.

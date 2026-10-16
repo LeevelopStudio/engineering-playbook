@@ -1,0 +1,2 @@
+# Adoption examples
+The local project is authoritative about its own state. Copy templates into projects and pin a specific revision of this playbook. The central playbook must never contain private career or finance data.

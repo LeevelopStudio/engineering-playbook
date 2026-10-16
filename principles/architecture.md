@@ -1,0 +1,2 @@
+# Architecture
+Business problem first. Favor simple explicit contracts, cohesive modules, incremental delivery and reversible ADR-backed decisions. Extract shared components after real duplication, not speculation.
